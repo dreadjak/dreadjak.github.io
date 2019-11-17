@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="/author/n2o/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="/" rel="alternate" type="text/html" />
-  <updated>2019-11-17T10:27:36-05:00</updated>
-  <id>/author/n2o/feed.xml</id>
+  <link href="http://localhost:4000/author/n2o/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2019-11-17T10:58:15-05:00</updated>
+  <id>http://localhost:4000/author/n2o/feed.xml</id>
 
   
   
@@ -37,11 +37,11 @@
   
     <entry>
       <title type="html">NetSec - What shouldn’t you do?</title>
-      <link href="/netsec-what-shouldn-t-you-do" rel="alternate" type="text/html" title="NetSec - What shouldn't you do?" />
+      <link href="http://localhost:4000/netsec-what-shouldn-t-you-do" rel="alternate" type="text/html" title="NetSec - What shouldn't you do?" />
       <published>2019-11-14T15:17:00-05:00</published>
       <updated>2019-11-14T15:17:00-05:00</updated>
-      <id>/netsec-what-shouldn-t-you-do</id>
-      <content type="html" xml:base="/netsec-what-shouldn-t-you-do">&lt;p&gt;Bacon ipsum dolor amet kielbasa chuck salami corned beef burgdoggen alcatra t-bone boudin tenderloin. Brisket meatloaf boudin spare ribs, burgdoggen doner landjaeger shoulder turkey ribeye meatball. Buffalo shoulder tri-tip beef fatback tail chislic burgdoggen turkey short loin leberkas. Tongue alcatra chicken landjaeger fatback pork prosciutto leberkas pork chop flank pork loin burgdoggen sirloin ribeye frankfurter. Brisket prosciutto ham hock capicola pig turducken flank chuck. Biltong tri-tip shoulder porchetta picanha filet mignon kielbasa jerky cow venison turkey tenderloin meatball capicola short loin.&lt;/p&gt;
+      <id>http://localhost:4000/netsec-what-shouldn-t-you-do</id>
+      <content type="html" xml:base="http://localhost:4000/netsec-what-shouldn-t-you-do">&lt;p&gt;Bacon ipsum dolor amet kielbasa chuck salami corned beef burgdoggen alcatra t-bone boudin tenderloin. Brisket meatloaf boudin spare ribs, burgdoggen doner landjaeger shoulder turkey ribeye meatball. Buffalo shoulder tri-tip beef fatback tail chislic burgdoggen turkey short loin leberkas. Tongue alcatra chicken landjaeger fatback pork prosciutto leberkas pork chop flank pork loin burgdoggen sirloin ribeye frankfurter. Brisket prosciutto ham hock capicola pig turducken flank chuck. Biltong tri-tip shoulder porchetta picanha filet mignon kielbasa jerky cow venison turkey tenderloin meatball capicola short loin.&lt;/p&gt;
 
 &lt;p&gt;Cow corned beef pork bacon short ribs bresaola. Bresaola tongue cow fatback doner t-bone swine ribeye. Drumstick bacon ribeye pork loin, shankle pork belly doner. Meatloaf spare ribs buffalo cupim short loin pork. Picanha ball tip boudin beef chuck cow ham hock bacon venison ham bresaola tri-tip flank kielbasa. Chuck tail ground round, landjaeger shank ball tip capicola beef ribs bacon doner short ribs t-bone biltong ribeye. Tongue ham hock shank chislic boudin sirloin pancetta hamburger tail buffalo cupim frankfurter bresaola brisket.&lt;/p&gt;
 

@@ -1,10 +1,14 @@
 ---
 layout: post
+current: post
+cover: assets/images/kevin-ku-w7ZyuGYNpRQ-unsplash.jpg
+navigation: True
 title: AppSec - The Next Frontier
 date: 2019-11-14 15:05 -0500
+tags:
+class: post-template
+subclass: 'post'
 author: dreadjak
-cover: assets/images/kevin-ku-w7ZyuGYNpRQ-unsplash.jpg
-navigation: true
 ---
 
 Bacon ipsum dolor amet tail kielbasa alcatra cow meatball. Jerky cow ground round ham. Short ribs bresaola sirloin, capicola beef ribs chuck ground round turkey ham hock cupim ball tip salami short loin alcatra fatback. Ribeye tail turkey corned beef drumstick.
