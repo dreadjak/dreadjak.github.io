@@ -16,7 +16,7 @@ logo: assets/images/logoTrans.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 production_url: 
-source_url: https://github.com/dreadjak
+source_url: https://github.com/dreadjak/dreadjak.github.io
 CNAME: #add cname for website to be created
 
 # Social info
@@ -70,12 +70,12 @@ feed:
 safe: False
 lsi: False
 username: dreadjak
-repo: jasper2
+repo: dreadjak.github.io
 branch: master
-relative_source: ../jasper2/
-destination: ../jasper2-pages/
-production_url:  
-source_url:  https://github.com/dreadjak
+relative_source: 
+destination: 
+production_url: https://dreadjak.github.io
+source_url:  https://github.com/dreadjak/dreadjak.github.io
 
 jekyll_compose:
   post_default_front_matter:
