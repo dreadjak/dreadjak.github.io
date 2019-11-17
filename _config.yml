@@ -15,7 +15,7 @@ cover: assets/images/blog-cover.jpg
 logo: assets/images/logoTrans.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: 
+production_url: https://dreadjak.github.io/
 source_url: https://github.com/dreadjak/dreadjak.github.io
 CNAME: #add cname for website to be created
 
