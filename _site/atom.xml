@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>IT &amp; Cybersecurity Non-Profit</description>
+    <link>
+    </link>
+    
+      
+      <item>
+        <title>NetSec - What shouldn't you do?</title>
+        
+          <description>&lt;p&gt;Bacon ipsum dolor amet kielbasa chuck salami corned beef burgdoggen alcatra t-bone boudin tenderloin. Brisket meatloaf boudin spare ribs, burgdoggen doner landjaeger shoulder turkey ribeye meatball. Buffalo shoulder tri-tip beef fatback tail chislic burgdoggen turkey short loin leberkas. Tongue alcatra chicken landjaeger fatback pork prosciutto leberkas pork chop flank pork loin burgdoggen sirloin ribeye frankfurter. Brisket prosciutto ham hock capicola pig turducken flank chuck. Biltong tri-tip shoulder porchetta picanha filet mignon kielbasa jerky cow venison turkey tenderloin meatball capicola short loin.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 14 Nov 2019 15:17:00 -0500</pubDate>
+        <link>
+        /netsec-what-shouldn-t-you-do</link>
+        <guid isPermaLink="true">/netsec-what-shouldn-t-you-do</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>AppSec - The Next Frontier</title>
+        
+          <description>&lt;p&gt;Bacon ipsum dolor amet tail kielbasa alcatra cow meatball. Jerky cow ground round ham. Short ribs bresaola sirloin, capicola beef ribs chuck ground round turkey ham hock cupim ball tip salami short loin alcatra fatback. Ribeye tail turkey corned beef drumstick.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 14 Nov 2019 15:05:00 -0500</pubDate>
+        <link>
+        /something</link>
+        <guid isPermaLink="true">/something</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
