@@ -3,15 +3,15 @@ layout: page
 current: about
 title: About
 navigation: true
-logo: '/assets/images/ghost.png'
+logo: 'assets/images/favicon.png'
 class: page-template
 subclass: 'post page'
 ---
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+Founded in 2018, 10-Sec Inc. is a 501(c)3 out of Knoxville, TN. Our goal is to foster growth in our community by providing a platform for open communication and mentorship. Connecting Cybersecurity professionals with up-and-coming talent will help guide future generations as they persue a successful career.
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
+10-Sec partners with local organizations and educational institutions to sponsor, host, and/or participate in events and activities that promote the Cybersecurity and Information Technology community.
 
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
+> If you or your organization would like to participate, please join us [on Slack](https://join.slack.com/t/10-sec/shared_invite/enQtMjcwNzE2OTAyNzQzLTc2OThkNTAxNDIwZjEyZTk3Yjc3ZjRlZjQ2MjNhNjNhNzc5Y2E0MDRkY2Y2NWQwNTg1ZDcxODFjNmQ5MWU0ODk).
 
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+10-Sec will gladly provide assistance to individuals or organizations who are working on a project. This could include research for a talk, white paper, or anything that would benefit the community directly. Our group is capable of providing technical expertise, virtual resources, and feedback.
